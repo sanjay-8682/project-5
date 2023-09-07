@@ -1,0 +1,69 @@
+#head{
+    color: #013CC6;
+    position: absolute;
+    left: 50px;
+    
+    
+}
+
+#Dashboard{
+    color: #0B63F8;
+    position: absolute;
+    top: 70px;
+    left: 70px;
+    
+}
+#labtest{
+    color: slategray;
+    position: absolute;
+    top: 110px;
+    left: 70px;
+    
+}
+#appoint{
+    color: slategray;
+    position: absolute;
+    top: 150px;
+    left: 70px;
+
+
+}
+#medicine{
+    color: slategray;
+    position: absolute;
+    top: 195px;
+    left: 70px;
+
+}
+#message{
+    color: slategray;
+    position: absolute;
+    top: 240px;
+    left: 70px;
+
+}
+#pay{
+    color: slategray;
+    position: absolute;
+    top: 285px;
+    left: 70px;
+
+}
+#sett{
+    color: slategray;
+    position: absolute;
+    top: 325px;
+    left: 70px;
+
+}
+#help{
+    color: slategray;
+    position: absolute;
+    top: 690px;
+    left: 170px;
+}
+
+
+
+
+

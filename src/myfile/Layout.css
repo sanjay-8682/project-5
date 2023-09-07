@@ -1,0 +1,121 @@
+
+#App{
+    color: slategrey;
+}
+#app{
+    color: slategray;
+}
+#inv{
+    color: #0B63F8;
+}
+
+#ECN{
+    border: 1px solid slategray;
+    border-radius: 1px;
+    position: absolute;
+    top: 140px;
+    left: 30px;
+    width: 270px;
+    font-weight: 100;
+    background-color: white;
+
+   
+}
+#EII{
+    border: 1px solid slategrey;
+    position: absolute;
+    top: 140px;
+    left: 335px;
+    width: 270px;
+    font-weight: 100;
+    background-color: white;
+}
+#SD{
+    border: 1px solid slategray;
+    position: absolute;
+    top: 140px;
+    left: 640px;
+    width: 270px;
+    font-weight: 100;
+    background-color: white;
+
+}
+#ED{
+    border: 1px solid slategray ;
+    position: absolute;
+    top:  140px;
+    left: 945px ;
+    width: 270px;
+    font-weight: 100;
+    background-color: white;
+}
+#SEARCH{
+    border: 1px solid slategray;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    color: white;
+    width: 650px;
+    background-color: white;
+
+}
+
+#sales{
+    position: absolute;
+    top: 67px;
+    left: 30px;
+}
+Table{
+    position: absolute;
+    left: 30px;
+    top: 197px;
+    width: 100px;
+}
+
+#cust{
+    position: absolute;
+    top: 108px;
+    left: 20px;
+    font-weight: 700;
+}
+#invo{
+    position: absolute;
+    top: 108px;
+    left: 325px;
+    font-weight: 700;
+}
+#sd{
+    position: absolute;
+    top: 108px;
+    left: 630px;
+    font-weight: 700;
+}
+#ed{
+    position: absolute;
+    top: 108px;
+    left: 935px;
+    font-weight: 700;
+}
+i{
+    position: absolute;
+    top: 10px;
+    left: 35px;
+    font-weight: 100;
+}
+
+#bell{
+    top: 10px;
+    left: 1190px;
+    position: absolute;
+}
+
+
+#Back{
+    width: 1230px;
+    height: 720px;
+    background-color: rgb(244, 245, 245);
+    position: relative;
+    left: 250px;
+
+
+}
